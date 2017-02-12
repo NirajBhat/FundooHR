@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/txt_date_reason"
         android:layout_centerHorizontal="true"
-        android:text="22 November 2016"/>
+        android:text="@string/nov22"/>
 
     <View android:id="@+id/titleDivider"
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Reason"
-        android:textSize="20dp"
+        android:textSize="@dimen/dimen_20dp"
         android:layout_marginTop="20dp"
         android:id="@+id/txt_reason"
         android:layout_marginLeft="50dp"

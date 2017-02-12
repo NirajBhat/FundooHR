@@ -23,6 +23,8 @@
     <string name="HR_url">http://192.168.0.31:3000/readEmployeeHRData</string>
     <string name="Bank_url">http://192.168.0.31:3000/readEmployeeBankData</string>
     <string name="Tracking_url">http://192.168.0.31:3000/readEmployeeTrackingData</string>
+    <string name="nov22">22 November 2016</string>
+    <string name="hint_email">Email</string>
 
     <string-array name="Month">
         <item> January</item>
